@@ -1,0 +1,2198 @@
+[
+    {
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "full_name": "Islamic Republic of Afghanistan",
+        "code": "AF",
+        "calling_code": "93",
+        "eea": false,
+        "currency_code": "AFN"
+    },
+    {
+        "name": "Albania",
+        "capital": "Tirana",
+        "full_name": "Republic of Albania",
+        "code": "AL",
+        "calling_code": "355",
+        "eea": false,
+        "currency_code": "ALL"
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "full_name": "People\u2019s Democratic Republic of Algeria",
+        "code": "DZ",
+        "calling_code": "213",
+        "eea": false,
+        "currency_code": "DZD"
+    },
+    {
+        "name": "American Samoa",
+        "capital": "Pago Pago",
+        "full_name": "Territory of American",
+        "code": "AS",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "full_name": "Principality of Andorra",
+        "code": "AD",
+        "calling_code": "376",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "full_name": "Republic of Angola",
+        "code": "AO",
+        "calling_code": "244",
+        "eea": false,
+        "currency_code": "AOA"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "capital": "St John\u2019s",
+        "full_name": "Antigua and Barbuda",
+        "code": "AG",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "XCD"
+    },
+    {
+        "name": "Azerbaijan",
+        "capital": "Baku",
+        "full_name": "Republic of Azerbaijan",
+        "code": "AZ",
+        "calling_code": "994",
+        "eea": false,
+        "currency_code": "AZN"
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "full_name": "Argentine Republic",
+        "code": "AR",
+        "calling_code": "54",
+        "eea": false,
+        "currency_code": "ARS"
+    },
+    {
+        "name": "Australia",
+        "capital": "Canberra",
+        "full_name": "Commonwealth of Australia",
+        "code": "AU",
+        "calling_code": "61",
+        "eea": false,
+        "currency_code": "AUD"
+    },
+    {
+        "name": "Austria",
+        "capital": "Vienna",
+        "full_name": "Republic of Austria",
+        "code": "AT",
+        "calling_code": "43",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Bahamas",
+        "capital": "Nassau",
+        "full_name": "Commonwealth of the Bahamas",
+        "code": "BS",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "BSD"
+    },
+    {
+        "name": "Bahrain",
+        "capital": "Manama",
+        "full_name": "Kingdom of Bahrain",
+        "code": "BH",
+        "calling_code": "973",
+        "eea": false,
+        "currency_code": "BHD"
+    },
+    {
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "full_name": "People\u2019s Republic of Bangladesh",
+        "code": "BD",
+        "calling_code": "880",
+        "eea": false,
+        "currency_code": "BDT"
+    },
+    {
+        "name": "Armenia",
+        "capital": "Yerevan",
+        "full_name": "Republic of Armenia",
+        "code": "AM",
+        "calling_code": "374",
+        "eea": false,
+        "currency_code": "AMD"
+    },
+    {
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "full_name": "Barbados",
+        "code": "BB",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "BBD"
+    },
+    {
+        "name": "Belgium",
+        "capital": "Brussels",
+        "full_name": "Kingdom of Belgium",
+        "code": "BE",
+        "calling_code": "32",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Bermuda",
+        "capital": "Hamilton",
+        "full_name": "Bermuda",
+        "code": "BM",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "BMD"
+    },
+    {
+        "name": "Bhutan",
+        "capital": "Thimphu",
+        "full_name": "Kingdom of Bhutan",
+        "code": "BT",
+        "calling_code": "975",
+        "eea": false,
+        "currency_code": "BTN"
+    },
+    {
+        "name": "Bolivia, Plurinational State of",
+        "capital": "Sucre (BO1)",
+        "full_name": "Plurinational State of Bolivia",
+        "code": "BO",
+        "calling_code": "591",
+        "eea": false,
+        "currency_code": "BOB"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "full_name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "calling_code": "387",
+        "eea": false,
+        "currency_code": "BAM"
+    },
+    {
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "full_name": "Republic of Botswana",
+        "code": "BW",
+        "calling_code": "267",
+        "eea": false,
+        "currency_code": "BWP"
+    },
+    {
+        "name": "Bouvet Island",
+        "capital": "Bouvet island",
+        "full_name": "Bouvet Island",
+        "code": "BV",
+        "calling_code": "47",
+        "eea": false,
+        "currency_code": "NOK"
+    },
+    {
+        "name": "Brazil",
+        "capital": "Brasilia",
+        "full_name": "Federative Republic of Brazil",
+        "code": "BR",
+        "calling_code": "55",
+        "eea": false,
+        "currency_code": "BRL"
+    },
+    {
+        "name": "Belize",
+        "capital": "Belmopan",
+        "full_name": "Belize",
+        "code": "BZ",
+        "calling_code": "501",
+        "eea": false,
+        "currency_code": "BZD"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "full_name": "British Indian Ocean Territory",
+        "code": "IO",
+        "calling_code": "246",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "full_name": "Solomon Islands",
+        "code": "SB",
+        "calling_code": "677",
+        "eea": false,
+        "currency_code": "SBD"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "capital": "Road Town",
+        "full_name": "British Virgin Islands",
+        "code": "VG",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "capital": "Bandar Seri Begawan",
+        "full_name": "Brunei Darussalam",
+        "code": "BN",
+        "calling_code": "673",
+        "eea": false,
+        "currency_code": "BND"
+    },
+    {
+        "name": "Bulgaria",
+        "capital": "Sofia",
+        "full_name": "Republic of Bulgaria",
+        "code": "BG",
+        "calling_code": "359",
+        "eea": true,
+        "currency_code": "BGN"
+    },
+    {
+        "name": "Myanmar",
+        "capital": "Yangon",
+        "full_name": "Union of Myanmar\/",
+        "code": "MM",
+        "calling_code": "95",
+        "eea": false,
+        "currency_code": "MMK"
+    },
+    {
+        "name": "Burundi",
+        "capital": "Bujumbura",
+        "full_name": "Republic of Burundi",
+        "code": "BI",
+        "calling_code": "257",
+        "eea": false,
+        "currency_code": "BIF"
+    },
+    {
+        "name": "Belarus",
+        "capital": "Minsk",
+        "full_name": "Republic of Belarus",
+        "code": "BY",
+        "calling_code": "375",
+        "eea": false,
+        "currency_code": "BYR"
+    },
+    {
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "full_name": "Kingdom of Cambodia",
+        "code": "KH",
+        "calling_code": "855",
+        "eea": false,
+        "currency_code": "KHR"
+    },
+    {
+        "name": "Cameroon",
+        "capital": "Yaound\u00e9",
+        "full_name": "Republic of Cameroon",
+        "code": "CM",
+        "calling_code": "237",
+        "eea": false,
+        "currency_code": "XAF"
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "full_name": "Canada",
+        "code": "CA",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "CAD"
+    },
+    {
+        "name": "Cape Verde",
+        "capital": "Praia",
+        "full_name": "Republic of Cape Verde",
+        "code": "CV",
+        "calling_code": "238",
+        "eea": false,
+        "currency_code": "CVE"
+    },
+    {
+        "name": "Cayman Islands",
+        "capital": "George Town",
+        "full_name": "Cayman Islands",
+        "code": "KY",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "KYD"
+    },
+    {
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "full_name": "Central African Republic",
+        "code": "CF",
+        "calling_code": "236",
+        "eea": false,
+        "currency_code": "XAF"
+    },
+    {
+        "name": "Sri Lanka",
+        "capital": "Colombo",
+        "full_name": "Democratic Socialist Republic of Sri Lanka",
+        "code": "LK",
+        "calling_code": "94",
+        "eea": false,
+        "currency_code": "LKR"
+    },
+    {
+        "name": "Chad",
+        "capital": "N\u2019Djamena",
+        "full_name": "Republic of Chad",
+        "code": "TD",
+        "calling_code": "235",
+        "eea": false,
+        "currency_code": "XAF"
+    },
+    {
+        "name": "Chile",
+        "capital": "Santiago",
+        "full_name": "Republic of Chile",
+        "code": "CL",
+        "calling_code": "56",
+        "eea": false,
+        "currency_code": "CLP"
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "full_name": "People\u2019s Republic of China",
+        "code": "CN",
+        "calling_code": "86",
+        "eea": false,
+        "currency_code": "CNY"
+    },
+    {
+        "name": "Taiwan, Province of China",
+        "capital": "Taipei",
+        "full_name": "Republic of China, Taiwan (TW1)",
+        "code": "TW",
+        "calling_code": "886",
+        "eea": false,
+        "currency_code": "TWD"
+    },
+    {
+        "name": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "full_name": "Christmas Island Territory",
+        "code": "CX",
+        "calling_code": "61",
+        "eea": false,
+        "currency_code": "AUD"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "capital": "Bantam",
+        "full_name": "Territory of Cocos (Keeling) Islands",
+        "code": "CC",
+        "calling_code": "61",
+        "eea": false,
+        "currency_code": "AUD"
+    },
+    {
+        "name": "Colombia",
+        "capital": "Santa Fe de Bogot\u00e1",
+        "full_name": "Republic of Colombia",
+        "code": "CO",
+        "calling_code": "57",
+        "eea": false,
+        "currency_code": "COP"
+    },
+    {
+        "name": "Comoros",
+        "capital": "Moroni",
+        "full_name": "Union of the Comoros",
+        "code": "KM",
+        "calling_code": "269",
+        "eea": false,
+        "currency_code": "KMF"
+    },
+    {
+        "name": "Mayotte",
+        "capital": "Mamoudzou",
+        "full_name": "Departmental Collectivity of Mayotte",
+        "code": "YT",
+        "calling_code": "262",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Congo",
+        "capital": "Brazzaville",
+        "full_name": "Republic of the Congo",
+        "code": "CG",
+        "calling_code": "242",
+        "eea": false,
+        "currency_code": "XAF"
+    },
+    {
+        "name": "Congo, the Democratic Republic of the",
+        "capital": "Kinshasa",
+        "full_name": "Democratic Republic of the Congo",
+        "code": "CD",
+        "calling_code": "243",
+        "eea": false,
+        "currency_code": "CDF"
+    },
+    {
+        "name": "Cook Islands",
+        "capital": "Avarua",
+        "full_name": "Cook Islands",
+        "code": "CK",
+        "calling_code": "682",
+        "eea": false,
+        "currency_code": "NZD"
+    },
+    {
+        "name": "Costa Rica",
+        "capital": "San Jos\u00e9",
+        "full_name": "Republic of Costa Rica",
+        "code": "CR",
+        "calling_code": "506",
+        "eea": false,
+        "currency_code": "CRC"
+    },
+    {
+        "name": "Croatia",
+        "capital": "Zagreb",
+        "full_name": "Republic of Croatia",
+        "code": "HR",
+        "calling_code": "385",
+        "eea": true,
+        "currency_code": "HRK"
+    },
+    {
+        "name": "Cuba",
+        "capital": "Havana",
+        "full_name": "Republic of Cuba",
+        "code": "CU",
+        "calling_code": "53",
+        "eea": false,
+        "currency_code": "CUP"
+    },
+    {
+        "name": "Cyprus",
+        "capital": "Nicosia",
+        "full_name": "Republic of Cyprus",
+        "code": "CY",
+        "calling_code": "357",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "full_name": "Czech Republic",
+        "code": "CZ",
+        "calling_code": "420",
+        "eea": true,
+        "currency_code": "CZK"
+    },
+    {
+        "name": "Benin",
+        "capital": "Porto Novo (BJ1)",
+        "full_name": "Republic of Benin",
+        "code": "BJ",
+        "calling_code": "229",
+        "eea": false,
+        "currency_code": "XOF"
+    },
+    {
+        "name": "Denmark",
+        "capital": "Copenhagen",
+        "full_name": "Kingdom of Denmark",
+        "code": "DK",
+        "calling_code": "45",
+        "eea": true,
+        "currency_code": "DKK"
+    },
+    {
+        "name": "Dominica",
+        "capital": "Roseau",
+        "full_name": "Commonwealth of Dominica",
+        "code": "DM",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "XCD"
+    },
+    {
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "full_name": "Dominican Republic",
+        "code": "DO",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "DOP"
+    },
+    {
+        "name": "Ecuador",
+        "capital": "Quito",
+        "full_name": "Republic of Ecuador",
+        "code": "EC",
+        "calling_code": "593",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "El Salvador",
+        "capital": "San Salvador",
+        "full_name": "Republic of El Salvador",
+        "code": "SV",
+        "calling_code": "503",
+        "eea": false,
+        "currency_code": "SVC"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "full_name": "Republic of Equatorial Guinea",
+        "code": "GQ",
+        "calling_code": "240",
+        "eea": false,
+        "currency_code": "XAF"
+    },
+    {
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "full_name": "Federal Democratic Republic of Ethiopia",
+        "code": "ET",
+        "calling_code": "251",
+        "eea": false,
+        "currency_code": "ETB"
+    },
+    {
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "full_name": "State of Eritrea",
+        "code": "ER",
+        "calling_code": "291",
+        "eea": false,
+        "currency_code": "ERN"
+    },
+    {
+        "name": "Estonia",
+        "capital": "Tallinn",
+        "full_name": "Republic of Estonia",
+        "code": "EE",
+        "calling_code": "372",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Faroe Islands",
+        "capital": "T\u00f3rshavn",
+        "full_name": "Faeroe Islands",
+        "code": "FO",
+        "calling_code": "298",
+        "eea": false,
+        "currency_code": "DKK"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "capital": "Stanley",
+        "full_name": "Falkland Islands",
+        "code": "FK",
+        "calling_code": "500",
+        "eea": false,
+        "currency_code": "FKP"
+    },
+    {
+        "name": "Fiji",
+        "capital": "Suva",
+        "full_name": "Republic of Fiji",
+        "code": "FJ",
+        "calling_code": "679",
+        "eea": false,
+        "currency_code": "FJD"
+    },
+    {
+        "name": "Finland",
+        "capital": "Helsinki",
+        "full_name": "Republic of Finland",
+        "code": "FI",
+        "calling_code": "358",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "\u00c5land Islands",
+        "capital": "Mariehamn",
+        "full_name": "\u00c5land Islands",
+        "code": "AX",
+        "calling_code": "358",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "full_name": "French Republic",
+        "code": "FR",
+        "calling_code": "33",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "French Guiana",
+        "capital": "Cayenne",
+        "full_name": "French Guiana",
+        "code": "GF",
+        "calling_code": "594",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "French Polynesia",
+        "capital": "Papeete",
+        "full_name": "French Polynesia",
+        "code": "PF",
+        "calling_code": "689",
+        "eea": false,
+        "currency_code": "XPF"
+    },
+    {
+        "name": "French Southern Territories",
+        "capital": "Port-aux-Francais",
+        "full_name": "French Southern and Antarctic Lands",
+        "code": "TF",
+        "calling_code": "33",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Djibouti",
+        "capital": "Djibouti",
+        "full_name": "Republic of Djibouti",
+        "code": "DJ",
+        "calling_code": "253",
+        "eea": false,
+        "currency_code": "DJF"
+    },
+    {
+        "name": "Gabon",
+        "capital": "Libreville",
+        "full_name": "Gabonese Republic",
+        "code": "GA",
+        "calling_code": "241",
+        "eea": false,
+        "currency_code": "XAF"
+    },
+    {
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "full_name": "Georgia",
+        "code": "GE",
+        "calling_code": "995",
+        "eea": false,
+        "currency_code": "GEL"
+    },
+    {
+        "name": "Gambia",
+        "capital": "Banjul",
+        "full_name": "Republic of the Gambia",
+        "code": "GM",
+        "calling_code": "220",
+        "eea": false,
+        "currency_code": "GMD"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "full_name": "Federal Republic of Germany",
+        "code": "DE",
+        "calling_code": "49",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Ghana",
+        "capital": "Accra",
+        "full_name": "Republic of Ghana",
+        "code": "GH",
+        "calling_code": "233",
+        "eea": false,
+        "currency_code": "GHS"
+    },
+    {
+        "name": "Gibraltar",
+        "capital": "Gibraltar",
+        "full_name": "Gibraltar",
+        "code": "GI",
+        "calling_code": "350",
+        "eea": false,
+        "currency_code": "GIP"
+    },
+    {
+        "name": "Kiribati",
+        "capital": "Tarawa",
+        "full_name": "Republic of Kiribati",
+        "code": "KI",
+        "calling_code": "686",
+        "eea": false,
+        "currency_code": "AUD"
+    },
+    {
+        "name": "Greece",
+        "capital": "Athens",
+        "full_name": "Hellenic Republic",
+        "code": "GR",
+        "calling_code": "30",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Greenland",
+        "capital": "Nuuk",
+        "full_name": "Greenland",
+        "code": "GL",
+        "calling_code": "299",
+        "eea": false,
+        "currency_code": "DKK"
+    },
+    {
+        "name": "Grenada",
+        "capital": "St George\u2019s",
+        "full_name": "Grenada",
+        "code": "GD",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "XCD"
+    },
+    {
+        "name": "Guadeloupe",
+        "capital": "Basse Terre",
+        "full_name": "Guadeloupe",
+        "code": "GP",
+        "calling_code": "590",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Guam",
+        "capital": "Aga\u00f1a (Hag\u00e5t\u00f1a)",
+        "full_name": "Territory of Guam",
+        "code": "GU",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "full_name": "Republic of Guatemala",
+        "code": "GT",
+        "calling_code": "502",
+        "eea": false,
+        "currency_code": "GTQ"
+    },
+    {
+        "name": "Guinea",
+        "capital": "Conakry",
+        "full_name": "Republic of Guinea",
+        "code": "GN",
+        "calling_code": "224",
+        "eea": false,
+        "currency_code": "GNF"
+    },
+    {
+        "name": "Guyana",
+        "capital": "Georgetown",
+        "full_name": "Cooperative Republic of Guyana",
+        "code": "GY",
+        "calling_code": "592",
+        "eea": false,
+        "currency_code": "GYD"
+    },
+    {
+        "name": "Haiti",
+        "capital": "Port-au-Prince",
+        "full_name": "Republic of Haiti",
+        "code": "HT",
+        "calling_code": "509",
+        "eea": false,
+        "currency_code": "HTG"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "capital": "Vatican City",
+        "full_name": "the Holy See\/ Vatican City State",
+        "code": "VA",
+        "calling_code": "39",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "full_name": "Republic of Honduras",
+        "code": "HN",
+        "calling_code": "504",
+        "eea": false,
+        "currency_code": "HNL"
+    },
+    {
+        "name": "Hong Kong",
+        "capital": "(HK3)",
+        "full_name": "Hong Kong Special Administrative Region of the People\u2019s Republic of China (HK2)",
+        "code": "HK",
+        "calling_code": "852",
+        "eea": false,
+        "currency_code": "HKD"
+    },
+    {
+        "name": "Hungary",
+        "capital": "Budapest",
+        "full_name": "Republic of Hungary",
+        "code": "HU",
+        "calling_code": "36",
+        "eea": true,
+        "currency_code": "HUF"
+    },
+    {
+        "name": "Iceland",
+        "capital": "Reykjavik",
+        "full_name": "Republic of Iceland",
+        "code": "IS",
+        "calling_code": "354",
+        "eea": false,
+        "currency_code": "ISK"
+    },
+    {
+        "name": "India",
+        "capital": "New Delhi",
+        "full_name": "Republic of India",
+        "code": "IN",
+        "calling_code": "91",
+        "eea": false,
+        "currency_code": "INR"
+    },
+    {
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "full_name": "Republic of Indonesia",
+        "code": "ID",
+        "calling_code": "62",
+        "eea": false,
+        "currency_code": "IDR"
+    },
+    {
+        "name": "Iran, Islamic Republic of",
+        "capital": "Tehran",
+        "full_name": "Islamic Republic of Iran",
+        "code": "IR",
+        "calling_code": "98",
+        "eea": false,
+        "currency_code": "IRR"
+    },
+    {
+        "name": "Iraq",
+        "capital": "Baghdad",
+        "full_name": "Republic of Iraq",
+        "code": "IQ",
+        "calling_code": "964",
+        "eea": false,
+        "currency_code": "IQD"
+    },
+    {
+        "name": "Ireland",
+        "capital": "Dublin",
+        "full_name": "Ireland (IE1)",
+        "code": "IE",
+        "calling_code": "353",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Israel",
+        "capital": "(IL1)",
+        "full_name": "State of Israel",
+        "code": "IL",
+        "calling_code": "972",
+        "eea": false,
+        "currency_code": "ILS"
+    },
+    {
+        "name": "Italy",
+        "capital": "Rome",
+        "full_name": "Italian Republic",
+        "code": "IT",
+        "calling_code": "39",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "C\u00f4te d'Ivoire",
+        "capital": "Yamoussoukro (CI1)",
+        "full_name": "Republic of C\u00f4te d\u2019Ivoire",
+        "code": "CI",
+        "calling_code": "225",
+        "eea": false,
+        "currency_code": "XOF"
+    },
+    {
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "full_name": "Jamaica",
+        "code": "JM",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "JMD"
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "full_name": "Japan",
+        "code": "JP",
+        "calling_code": "81",
+        "eea": false,
+        "currency_code": "JPY"
+    },
+    {
+        "name": "Kazakhstan",
+        "capital": "Astana",
+        "full_name": "Republic of Kazakhstan",
+        "code": "KZ",
+        "calling_code": "7",
+        "eea": false,
+        "currency_code": "KZT"
+    },
+    {
+        "name": "Jordan",
+        "capital": "Amman",
+        "full_name": "Hashemite Kingdom of Jordan",
+        "code": "JO",
+        "calling_code": "962",
+        "eea": false,
+        "currency_code": "JOD"
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "full_name": "Republic of Kenya",
+        "code": "KE",
+        "calling_code": "254",
+        "eea": false,
+        "currency_code": "KES"
+    },
+    {
+        "name": "Korea, Democratic People's Republic of",
+        "capital": "Pyongyang",
+        "full_name": "Democratic People\u2019s Republic of Korea",
+        "code": "KP",
+        "calling_code": "850",
+        "eea": false,
+        "currency_code": "KPW"
+    },
+    {
+        "name": "Korea, Republic of",
+        "capital": "Seoul",
+        "full_name": "Republic of Korea",
+        "code": "KR",
+        "calling_code": "82",
+        "eea": false,
+        "currency_code": "KRW"
+    },
+    {
+        "name": "Kuwait",
+        "capital": "Kuwait City",
+        "full_name": "State of Kuwait",
+        "code": "KW",
+        "calling_code": "965",
+        "eea": false,
+        "currency_code": "KWD"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "full_name": "Kyrgyz Republic",
+        "code": "KG",
+        "calling_code": "996",
+        "eea": false,
+        "currency_code": "KGS"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "capital": "Vientiane",
+        "full_name": "Lao People\u2019s Democratic Republic",
+        "code": "LA",
+        "calling_code": "856",
+        "eea": false,
+        "currency_code": "LAK"
+    },
+    {
+        "name": "Lebanon",
+        "capital": "Beirut",
+        "full_name": "Lebanese Republic",
+        "code": "LB",
+        "calling_code": "961",
+        "eea": false,
+        "currency_code": "LBP"
+    },
+    {
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "full_name": "Kingdom of Lesotho",
+        "code": "LS",
+        "calling_code": "266",
+        "eea": false,
+        "currency_code": "LSL"
+    },
+    {
+        "name": "Latvia",
+        "capital": "Riga",
+        "full_name": "Republic of Latvia",
+        "code": "LV",
+        "calling_code": "371",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "full_name": "Republic of Liberia",
+        "code": "LR",
+        "calling_code": "231",
+        "eea": false,
+        "currency_code": "LRD"
+    },
+    {
+        "name": "Libya",
+        "capital": "Tripoli",
+        "full_name": "Socialist People\u2019s Libyan Arab Jamahiriya",
+        "code": "LY",
+        "calling_code": "218",
+        "eea": false,
+        "currency_code": "LYD"
+    },
+    {
+        "name": "Liechtenstein",
+        "capital": "Vaduz",
+        "full_name": "Principality of Liechtenstein",
+        "code": "LI",
+        "calling_code": "423",
+        "eea": false,
+        "currency_code": "CHF"
+    },
+    {
+        "name": "Lithuania",
+        "capital": "Vilnius",
+        "full_name": "Republic of Lithuania",
+        "code": "LT",
+        "calling_code": "370",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Luxembourg",
+        "capital": "Luxembourg",
+        "full_name": "Grand Duchy of Luxembourg",
+        "code": "LU",
+        "calling_code": "352",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Macao",
+        "capital": "Macao (MO3)",
+        "full_name": "Macao Special Administrative Region of the People\u2019s Republic of China (MO2)",
+        "code": "MO",
+        "calling_code": "853",
+        "eea": false,
+        "currency_code": "MOP"
+    },
+    {
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "full_name": "Republic of Madagascar",
+        "code": "MG",
+        "calling_code": "261",
+        "eea": false,
+        "currency_code": "MGA"
+    },
+    {
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "full_name": "Republic of Malawi",
+        "code": "MW",
+        "calling_code": "265",
+        "eea": false,
+        "currency_code": "MWK"
+    },
+    {
+        "name": "Malaysia",
+        "capital": "Kuala Lumpur (MY1)",
+        "full_name": "Malaysia",
+        "code": "MY",
+        "calling_code": "60",
+        "eea": false,
+        "currency_code": "MYR"
+    },
+    {
+        "name": "Maldives",
+        "capital": "Mal\u00e9",
+        "full_name": "Republic of Maldives",
+        "code": "MV",
+        "calling_code": "960",
+        "eea": false,
+        "currency_code": "MVR"
+    },
+    {
+        "name": "Mali",
+        "capital": "Bamako",
+        "full_name": "Republic of Mali",
+        "code": "ML",
+        "calling_code": "223",
+        "eea": false,
+        "currency_code": "XOF"
+    },
+    {
+        "name": "Malta",
+        "capital": "Valletta",
+        "full_name": "Republic of Malta",
+        "code": "MT",
+        "calling_code": "356",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Martinique",
+        "capital": "Fort-de-France",
+        "full_name": "Martinique",
+        "code": "MQ",
+        "calling_code": "596",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "full_name": "Islamic Republic of Mauritania",
+        "code": "MR",
+        "calling_code": "222",
+        "eea": false,
+        "currency_code": "MRO"
+    },
+    {
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "full_name": "Republic of Mauritius",
+        "code": "MU",
+        "calling_code": "230",
+        "eea": false,
+        "currency_code": "MUR"
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "full_name": "United Mexican States",
+        "code": "MX",
+        "calling_code": "52",
+        "eea": false,
+        "currency_code": "MXN"
+    },
+    {
+        "name": "Monaco",
+        "capital": "Monaco",
+        "full_name": "Principality of Monaco",
+        "code": "MC",
+        "calling_code": "377",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Mongolia",
+        "capital": "Ulan Bator",
+        "full_name": "Mongolia",
+        "code": "MN",
+        "calling_code": "976",
+        "eea": false,
+        "currency_code": "MNT"
+    },
+    {
+        "name": "Moldova, Republic of",
+        "capital": "Chisinau",
+        "full_name": "Republic of Moldova",
+        "code": "MD",
+        "calling_code": "373",
+        "eea": false,
+        "currency_code": "MDL"
+    },
+    {
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "full_name": "Montenegro",
+        "code": "ME",
+        "calling_code": "382",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Montserrat",
+        "capital": "Plymouth (MS2)",
+        "full_name": "Montserrat",
+        "code": "MS",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "XCD"
+    },
+    {
+        "name": "Morocco",
+        "capital": "Rabat",
+        "full_name": "Kingdom of Morocco",
+        "code": "MA",
+        "calling_code": "212",
+        "eea": false,
+        "currency_code": "MAD"
+    },
+    {
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "full_name": "Republic of Mozambique",
+        "code": "MZ",
+        "calling_code": "258",
+        "eea": false,
+        "currency_code": "MZN"
+    },
+    {
+        "name": "Oman",
+        "capital": "Muscat",
+        "full_name": "Sultanate of Oman",
+        "code": "OM",
+        "calling_code": "968",
+        "eea": false,
+        "currency_code": "OMR"
+    },
+    {
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "full_name": "Republic of Namibia",
+        "code": "NA",
+        "calling_code": "264",
+        "eea": false,
+        "currency_code": "NAD"
+    },
+    {
+        "name": "Nauru",
+        "capital": "Yaren",
+        "full_name": "Republic of Nauru",
+        "code": "NR",
+        "calling_code": "674",
+        "eea": false,
+        "currency_code": "AUD"
+    },
+    {
+        "name": "Nepal",
+        "capital": "Kathmandu",
+        "full_name": "Nepal",
+        "code": "NP",
+        "calling_code": "977",
+        "eea": false,
+        "currency_code": "NPR"
+    },
+    {
+        "name": "Netherlands",
+        "capital": "Amsterdam (NL2)",
+        "full_name": "Kingdom of the Netherlands",
+        "code": "NL",
+        "calling_code": "31",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Cura\u00e7ao",
+        "capital": "Willemstad",
+        "full_name": "Cura\u00e7ao",
+        "code": "CW",
+        "calling_code": "599",
+        "eea": false,
+        "currency_code": "ANG"
+    },
+    {
+        "name": "Aruba",
+        "capital": "Oranjestad",
+        "full_name": "Aruba",
+        "code": "AW",
+        "calling_code": "297",
+        "eea": false,
+        "currency_code": "AWG"
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "capital": "Philipsburg",
+        "full_name": "Sint Maarten",
+        "code": "SX",
+        "calling_code": "721",
+        "eea": false,
+        "currency_code": "ANG"
+    },
+    {
+        "name": "New Caledonia",
+        "capital": "Noum\u00e9a",
+        "full_name": "New Caledonia",
+        "code": "NC",
+        "calling_code": "687",
+        "eea": false,
+        "currency_code": "XPF"
+    },
+    {
+        "name": "Vanuatu",
+        "capital": "Port Vila",
+        "full_name": "Republic of Vanuatu",
+        "code": "VU",
+        "calling_code": "678",
+        "eea": false,
+        "currency_code": "VUV"
+    },
+    {
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "full_name": "New Zealand",
+        "code": "NZ",
+        "calling_code": "64",
+        "eea": false,
+        "currency_code": "NZD"
+    },
+    {
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "full_name": "Republic of Nicaragua",
+        "code": "NI",
+        "calling_code": "505",
+        "eea": false,
+        "currency_code": "NIO"
+    },
+    {
+        "name": "Niger",
+        "capital": "Niamey",
+        "full_name": "Republic of Niger",
+        "code": "NE",
+        "calling_code": "227",
+        "eea": false,
+        "currency_code": "XOF"
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "full_name": "Federal Republic of Nigeria",
+        "code": "NG",
+        "calling_code": "234",
+        "eea": false,
+        "currency_code": "NGN"
+    },
+    {
+        "name": "Niue",
+        "capital": "Alofi",
+        "full_name": "Niue",
+        "code": "NU",
+        "calling_code": "683",
+        "eea": false,
+        "currency_code": "NZD"
+    },
+    {
+        "name": "Norfolk Island",
+        "capital": "Kingston",
+        "full_name": "Territory of Norfolk Island",
+        "code": "NF",
+        "calling_code": "672",
+        "eea": false,
+        "currency_code": "AUD"
+    },
+    {
+        "name": "Norway",
+        "capital": "Oslo",
+        "full_name": "Kingdom of Norway",
+        "code": "NO",
+        "calling_code": "47",
+        "eea": false,
+        "currency_code": "NOK"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "full_name": "Commonwealth of the Northern Mariana Islands",
+        "code": "MP",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "capital": "United States Minor Outlying Islands",
+        "full_name": "United States Minor Outlying Islands",
+        "code": "UM",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Micronesia, Federated States of",
+        "capital": "Palikir",
+        "full_name": "Federated States of Micronesia",
+        "code": "FM",
+        "calling_code": "691",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Marshall Islands",
+        "capital": "Majuro",
+        "full_name": "Republic of the Marshall Islands",
+        "code": "MH",
+        "calling_code": "692",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Palau",
+        "capital": "Melekeok",
+        "full_name": "Republic of Palau",
+        "code": "PW",
+        "calling_code": "680",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "full_name": "Islamic Republic of Pakistan",
+        "code": "PK",
+        "calling_code": "92",
+        "eea": false,
+        "currency_code": "PKR"
+    },
+    {
+        "name": "Panama",
+        "capital": "Panama City",
+        "full_name": "Republic of Panama",
+        "code": "PA",
+        "calling_code": "507",
+        "eea": false,
+        "currency_code": "PAB"
+    },
+    {
+        "name": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "full_name": "Independent State of Papua New Guinea",
+        "code": "PG",
+        "calling_code": "675",
+        "eea": false,
+        "currency_code": "PGK"
+    },
+    {
+        "name": "Paraguay",
+        "capital": "Asunci\u00f3n",
+        "full_name": "Republic of Paraguay",
+        "code": "PY",
+        "calling_code": "595",
+        "eea": false,
+        "currency_code": "PYG"
+    },
+    {
+        "name": "Peru",
+        "capital": "Lima",
+        "full_name": "Republic of Peru",
+        "code": "PE",
+        "calling_code": "51",
+        "eea": false,
+        "currency_code": "PEN"
+    },
+    {
+        "name": "Philippines",
+        "capital": "Manila",
+        "full_name": "Republic of the Philippines",
+        "code": "PH",
+        "calling_code": "63",
+        "eea": false,
+        "currency_code": "PHP"
+    },
+    {
+        "name": "Pitcairn",
+        "capital": "Adamstown",
+        "full_name": "Pitcairn Islands",
+        "code": "PN",
+        "calling_code": "649",
+        "eea": false,
+        "currency_code": "NZD"
+    },
+    {
+        "name": "Poland",
+        "capital": "Warsaw",
+        "full_name": "Republic of Poland",
+        "code": "PL",
+        "calling_code": "48",
+        "eea": true,
+        "currency_code": "PLN"
+    },
+    {
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "full_name": "Portuguese Republic",
+        "code": "PT",
+        "calling_code": "351",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "full_name": "Republic of Guinea-Bissau",
+        "code": "GW",
+        "calling_code": "245",
+        "eea": false,
+        "currency_code": "XOF"
+    },
+    {
+        "name": "Timor-Leste",
+        "capital": "Dili",
+        "full_name": "Democratic Republic of East Timor",
+        "code": "TL",
+        "calling_code": "670",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Puerto Rico",
+        "capital": "San Juan",
+        "full_name": "Commonwealth of Puerto Rico",
+        "code": "PR",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Qatar",
+        "capital": "Doha",
+        "full_name": "State of Qatar",
+        "code": "QA",
+        "calling_code": "974",
+        "eea": false,
+        "currency_code": "QAR"
+    },
+    {
+        "name": "R\u00e9union",
+        "capital": "Saint-Denis",
+        "full_name": "R\u00e9union",
+        "code": "RE",
+        "calling_code": "262",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Romania",
+        "capital": "Bucharest",
+        "full_name": "Romania",
+        "code": "RO",
+        "calling_code": "40",
+        "eea": true,
+        "currency_code": "RON"
+    },
+    {
+        "name": "Russian Federation",
+        "capital": "Moscow",
+        "full_name": "Russian Federation",
+        "code": "RU",
+        "calling_code": "7",
+        "eea": false,
+        "currency_code": "RUB"
+    },
+    {
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "full_name": "Republic of Rwanda",
+        "code": "RW",
+        "calling_code": "250",
+        "eea": false,
+        "currency_code": "RWF"
+    },
+    {
+        "name": "Saint Barth\u00e9lemy",
+        "capital": "Gustavia",
+        "full_name": "Collectivity of Saint Barth\u00e9lemy",
+        "code": "BL",
+        "calling_code": "590",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": "Jamestown",
+        "full_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "code": "SH",
+        "calling_code": "290",
+        "eea": false,
+        "currency_code": "SHP"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "full_name": "Federation of Saint Kitts and Nevis",
+        "code": "KN",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "XCD"
+    },
+    {
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "full_name": "Anguilla",
+        "code": "AI",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "XCD"
+    },
+    {
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "full_name": "Saint Lucia",
+        "code": "LC",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "XCD"
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "capital": "Marigot",
+        "full_name": "Collectivity of Saint Martin",
+        "code": "MF",
+        "calling_code": "590",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "full_name": "Territorial Collectivity of Saint Pierre and Miquelon",
+        "code": "PM",
+        "calling_code": "508",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "full_name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "XCD"
+    },
+    {
+        "name": "San Marino",
+        "capital": "San Marino",
+        "full_name": "Republic of San Marino",
+        "code": "SM",
+        "calling_code": "378",
+        "eea": false,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "capital": "S\u00e3o Tom\u00e9",
+        "full_name": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "code": "ST",
+        "calling_code": "239",
+        "eea": false,
+        "currency_code": "STD"
+    },
+    {
+        "name": "Saudi Arabia",
+        "capital": "Riyadh",
+        "full_name": "Kingdom of Saudi Arabia",
+        "code": "SA",
+        "calling_code": "966",
+        "eea": false,
+        "currency_code": "SAR"
+    },
+    {
+        "name": "Senegal",
+        "capital": "Dakar",
+        "full_name": "Republic of Senegal",
+        "code": "SN",
+        "calling_code": "221",
+        "eea": false,
+        "currency_code": "XOF"
+    },
+    {
+        "name": "Serbia",
+        "capital": "Belgrade",
+        "full_name": "Republic of Serbia",
+        "code": "RS",
+        "calling_code": "381",
+        "eea": false,
+        "currency_code": "RSD"
+    },
+    {
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "full_name": "Republic of Seychelles",
+        "code": "SC",
+        "calling_code": "248",
+        "eea": false,
+        "currency_code": "SCR"
+    },
+    {
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "full_name": "Republic of Sierra Leone",
+        "code": "SL",
+        "calling_code": "232",
+        "eea": false,
+        "currency_code": "SLL"
+    },
+    {
+        "name": "Singapore",
+        "capital": "Singapore",
+        "full_name": "Republic of Singapore",
+        "code": "SG",
+        "calling_code": "65",
+        "eea": false,
+        "currency_code": "SGD"
+    },
+    {
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "full_name": "Slovak Republic",
+        "code": "SK",
+        "calling_code": "421",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Viet Nam",
+        "capital": "Hanoi",
+        "full_name": "Socialist Republic of Vietnam",
+        "code": "VN",
+        "calling_code": "84",
+        "eea": false,
+        "currency_code": "VND"
+    },
+    {
+        "name": "Slovenia",
+        "capital": "Ljubljana",
+        "full_name": "Republic of Slovenia",
+        "code": "SI",
+        "calling_code": "386",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "full_name": "Somali Republic",
+        "code": "SO",
+        "calling_code": "252",
+        "eea": false,
+        "currency_code": "SOS"
+    },
+    {
+        "name": "South Africa",
+        "capital": "Pretoria (ZA1)",
+        "full_name": "Republic of South Africa",
+        "code": "ZA",
+        "calling_code": "27",
+        "eea": false,
+        "currency_code": "ZAR"
+    },
+    {
+        "name": "Zimbabwe",
+        "capital": "Harare",
+        "full_name": "Republic of Zimbabwe",
+        "code": "ZW",
+        "calling_code": "263",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "full_name": "Kingdom of Spain",
+        "code": "ES",
+        "calling_code": "34",
+        "eea": true,
+        "currency_code": "EUR"
+    },
+    {
+        "name": "South Sudan",
+        "capital": "Juba",
+        "full_name": "Republic of South Sudan",
+        "code": "SS",
+        "calling_code": "211",
+        "eea": false,
+        "currency_code": "SSP"
+    },
+    {
+        "name": "Sudan",
+        "capital": "Khartoum",
+        "full_name": "Republic of the Sudan",
+        "code": "SD",
+        "calling_code": "249",
+        "eea": false,
+        "currency_code": "SDG"
+    },
+    {
+        "name": "Western Sahara",
+        "capital": "Al aaiun",
+        "full_name": "Western Sahara",
+        "code": "EH",
+        "calling_code": "212",
+        "eea": false,
+        "currency_code": "MAD"
+    },
+    {
+        "name": "Suriname",
+        "capital": "Paramaribo",
+        "full_name": "Republic of Suriname",
+        "code": "SR",
+        "calling_code": "597",
+        "eea": false,
+        "currency_code": "SRD"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "capital": "Longyearbyen",
+        "full_name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "calling_code": "47",
+        "eea": false,
+        "currency_code": "NOK"
+    },
+    {
+        "name": "Swaziland",
+        "capital": "Mbabane",
+        "full_name": "Kingdom of Swaziland",
+        "code": "SZ",
+        "calling_code": "268",
+        "eea": false,
+        "currency_code": "SZL"
+    },
+    {
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "full_name": "Kingdom of Sweden",
+        "code": "SE",
+        "calling_code": "46",
+        "eea": true,
+        "currency_code": "SEK"
+    },
+    {
+        "name": "Switzerland",
+        "capital": "Berne",
+        "full_name": "Swiss Confederation",
+        "code": "CH",
+        "calling_code": "41",
+        "eea": false,
+        "currency_code": "CHF"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "capital": "Damascus",
+        "full_name": "Syrian Arab Republic",
+        "code": "SY",
+        "calling_code": "963",
+        "eea": false,
+        "currency_code": "SYP"
+    },
+    {
+        "name": "Tajikistan",
+        "capital": "Dushanbe",
+        "full_name": "Republic of Tajikistan",
+        "code": "TJ",
+        "calling_code": "992",
+        "eea": false,
+        "currency_code": "TJS"
+    },
+    {
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "full_name": "Kingdom of Thailand",
+        "code": "TH",
+        "calling_code": "66",
+        "eea": false,
+        "currency_code": "THB"
+    },
+    {
+        "name": "Togo",
+        "capital": "Lom\u00e9",
+        "full_name": "Togolese Republic",
+        "code": "TG",
+        "calling_code": "228",
+        "eea": false,
+        "currency_code": "XOF"
+    },
+    {
+        "name": "Tokelau",
+        "capital": "(TK2)",
+        "full_name": "Tokelau",
+        "code": "TK",
+        "calling_code": "690",
+        "eea": false,
+        "currency_code": "NZD"
+    },
+    {
+        "name": "Tonga",
+        "capital": "Nuku\u2019alofa",
+        "full_name": "Kingdom of Tonga",
+        "code": "TO",
+        "calling_code": "676",
+        "eea": false,
+        "currency_code": "TOP"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "full_name": "Republic of Trinidad and Tobago",
+        "code": "TT",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "TTD"
+    },
+    {
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "full_name": "United Arab Emirates",
+        "code": "AE",
+        "calling_code": "971",
+        "eea": false,
+        "currency_code": "AED"
+    },
+    {
+        "name": "Tunisia",
+        "capital": "Tunis",
+        "full_name": "Republic of Tunisia",
+        "code": "TN",
+        "calling_code": "216",
+        "eea": false,
+        "currency_code": "TND"
+    },
+    {
+        "name": "Turkey",
+        "capital": "Ankara",
+        "full_name": "Republic of Turkey",
+        "code": "TR",
+        "calling_code": "90",
+        "eea": false,
+        "currency_code": "TRY"
+    },
+    {
+        "name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "full_name": "Turkmenistan",
+        "code": "TM",
+        "calling_code": "993",
+        "eea": false,
+        "currency_code": "TMT"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "full_name": "Turks and Caicos Islands",
+        "code": "TC",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Tuvalu",
+        "capital": "Funafuti",
+        "full_name": "Tuvalu",
+        "code": "TV",
+        "calling_code": "688",
+        "eea": false,
+        "currency_code": "AUD"
+    },
+    {
+        "name": "Uganda",
+        "capital": "Kampala",
+        "full_name": "Republic of Uganda",
+        "code": "UG",
+        "calling_code": "256",
+        "eea": false,
+        "currency_code": "UGX"
+    },
+    {
+        "name": "Ukraine",
+        "capital": "Kiev",
+        "full_name": "Ukraine",
+        "code": "UA",
+        "calling_code": "380",
+        "eea": false,
+        "currency_code": "UAH"
+    },
+    {
+        "name": "Macedonia, the former Yugoslav Republic of",
+        "capital": "Skopje",
+        "full_name": "the former Yugoslav Republic of Macedonia",
+        "code": "MK",
+        "calling_code": "389",
+        "eea": false,
+        "currency_code": "MKD"
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "full_name": "Arab Republic of Egypt",
+        "code": "EG",
+        "calling_code": "20",
+        "eea": false,
+        "currency_code": "EGP"
+    },
+    {
+        "name": "United Kingdom",
+        "capital": "London",
+        "full_name": "United Kingdom of Great Britain and Northern Ireland",
+        "code": "GB",
+        "calling_code": "44",
+        "eea": true,
+        "currency_code": "GBP"
+    },
+    {
+        "name": "Guernsey",
+        "capital": "St Peter Port",
+        "full_name": "Bailiwick of Guernsey",
+        "code": "GG",
+        "calling_code": "44",
+        "eea": false,
+        "currency_code": "GBP"
+    },
+    {
+        "name": "Jersey",
+        "capital": "St Helier",
+        "full_name": "Bailiwick of Jersey",
+        "code": "JE",
+        "calling_code": "44",
+        "eea": false,
+        "currency_code": "GBP"
+    },
+    {
+        "name": "Isle of Man",
+        "capital": "Douglas",
+        "full_name": "Isle of Man",
+        "code": "IM",
+        "calling_code": "44",
+        "eea": false,
+        "currency_code": "GBP"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "capital": "Dodoma (TZ1)",
+        "full_name": "United Republic of Tanzania",
+        "code": "TZ",
+        "calling_code": "255",
+        "eea": false,
+        "currency_code": "TZS"
+    },
+    {
+        "name": "United States",
+        "capital": "Washington DC",
+        "full_name": "United States of America",
+        "code": "US",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "capital": "Charlotte Amalie",
+        "full_name": "United States Virgin Islands",
+        "code": "VI",
+        "calling_code": "1",
+        "eea": false,
+        "currency_code": "USD"
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "full_name": "Burkina Faso",
+        "code": "BF",
+        "calling_code": "226",
+        "eea": false,
+        "currency_code": "XOF"
+    },
+    {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "full_name": "Eastern Republic of Uruguay",
+        "code": "UY",
+        "calling_code": "598",
+        "eea": false,
+        "currency_code": "UYU"
+    },
+    {
+        "name": "Uzbekistan",
+        "capital": "Tashkent",
+        "full_name": "Republic of Uzbekistan",
+        "code": "UZ",
+        "calling_code": "998",
+        "eea": false,
+        "currency_code": "UZS"
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of",
+        "capital": "Caracas",
+        "full_name": "Bolivarian Republic of Venezuela",
+        "code": "VE",
+        "calling_code": "58",
+        "eea": false,
+        "currency_code": "VEF"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "capital": "Mata-Utu",
+        "full_name": "Wallis and Futuna",
+        "code": "WF",
+        "calling_code": "681",
+        "eea": false,
+        "currency_code": "XPF"
+    },
+    {
+        "name": "Samoa",
+        "capital": "Apia",
+        "full_name": "Independent State of Samoa",
+        "code": "WS",
+        "calling_code": "685",
+        "eea": false,
+        "currency_code": "WST"
+    },
+    {
+        "name": "Yemen",
+        "capital": "San\u2019a",
+        "full_name": "Republic of Yemen",
+        "code": "YE",
+        "calling_code": "967",
+        "eea": false,
+        "currency_code": "YER"
+    },
+    {
+        "name": "Zambia",
+        "capital": "Lusaka",
+        "full_name": "Republic of Zambia",
+        "code": "ZM",
+        "calling_code": "260",
+        "eea": false,
+        "currency_code": "ZMW"
+    }
+]

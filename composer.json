@@ -1,0 +1,25 @@
+{
+    "name": "netcore/module-country",
+    "description": "",
+    "authors": [
+        {
+            "name": "Gustavs Racenajs",
+            "email": "racenajs.gustavs@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Country\\Providers\\CountryServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Country\\": ""
+        }
+    }
+}
