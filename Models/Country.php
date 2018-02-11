@@ -50,4 +50,14 @@ class Country extends Model
     {
         return $query->where('is_active', true);
     }
+
+    /**
+     * Return URL to flag
+     *
+     * @return string
+     */
+    public function getFlagUrlAttribute()
+    {
+        return asset('assets/country/flags/' . $this->code . '.png');
+    }
 }
