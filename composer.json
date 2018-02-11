@@ -21,5 +21,8 @@
         "psr-4": {
             "Modules\\Country\\": ""
         }
+    },
+    "requrie": {
+        "php": ">=7.1"
     }
 }

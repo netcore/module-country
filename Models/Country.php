@@ -39,4 +39,15 @@ class Country extends Model
     {
         return $this->belongsTo(Currency::class);
     }
+
+    /**
+     * Scope a query to only include active countries
+     *
+     * @param $query
+     * @return mixed
+     */
+    public function scopeActive($query)
+    {
+        return $query->where('is_active', true);
+    }
 }
