@@ -5,6 +5,8 @@ namespace Modules\Country\Providers;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Eloquent\Factory;
+use Modules\Country\Models\Country;
+use Modules\Country\Observers\CountryObserver;
 use Modules\Country\Repositories\CountryRepository;
 
 class CountryServiceProvider extends ServiceProvider
@@ -25,6 +27,8 @@ class CountryServiceProvider extends ServiceProvider
     {
         $this->registerConfig();
         $this->loadMigrationsFrom(__DIR__ . '/../Database/Migrations');
+
+        Country::observe(CountryObserver::class);
     }
 
     /**
