@@ -27,7 +27,7 @@ php artisan migrate
 php artisan module:seed Country
 ```
 
-### Usage
+## Usage
 
 * Get all countries:
 ```php
@@ -66,11 +66,11 @@ public function currency(): Illuminate\Database\Eloquent\Relations\BelongsTo
 }
 ```
 
-### Disclaimer
+## Disclaimer
 We take no responsibility for the accuracy of the country, currency and flag lists provided in the source files. The 
 lists were made diregarding any political and religious views. If you find the country list inaccurate, feel free to fork
 the repository and change the lists how you wish.
 
-### Todo:
+## Todo:
 * Add unit tests
 * Make countries and currencies manageable in the admin panel
