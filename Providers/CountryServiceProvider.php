@@ -26,6 +26,7 @@ class CountryServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->registerConfig();
+        $this->registerViews();
         $this->loadMigrationsFrom(__DIR__ . '/../Database/Migrations');
 
         Country::observe(CountryObserver::class);
@@ -54,6 +55,25 @@ class CountryServiceProvider extends ServiceProvider
             __DIR__ . '/../Config/config.php' => config_path('netcore/module-country.php'),
         ], 'config');
         $this->mergeConfigFrom(__DIR__ . '/../Config/config.php', 'country');
+    }
+
+    /**
+     * Register views.
+     *
+     * @return void
+     */
+    protected function registerViews()
+    {
+        $viewPath = resource_path('views/modules/invoice');
+        $sourcePath = __DIR__ . '/../Resources/views';
+
+        $this->publishes([
+            $sourcePath => $viewPath,
+        ]);
+
+        $this->loadViewsFrom(array_merge(array_map(function ($path) {
+            return $path . '/modules/country';
+        }, config('view.paths')), [$sourcePath]), 'country');
     }
 
     /**

@@ -2,38 +2,60 @@
 
 namespace Modules\Country\Models;
 
+use Dimsav\Translatable\Translatable;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\Relations\HasMany;
+use Modules\Admin\Traits\SyncTranslations;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Country extends Model
 {
+    use Translatable, SyncTranslations;
+
     /**
-     * Table name
+     * The table associated with the model.
      *
      * @var string
      */
     protected $table = 'netcore_country__countries';
 
     /**
-     * Mass assignable attributes
+     * The attributes that are mass assignable.
      *
      * @var array
      */
     protected $fillable = [
-        'code', 'name', 'capital', 'full_name', 'calling_code', 'eea'
+        'eea',
+        'code',
+        'capital',
+        'is_active',
+        'calling_code',
     ];
 
     /**
-     * Disable created_at and updated_at timestamps
+     * Attributes that are translatable.
+     *
+     * @var array
+     */
+    protected $translatedAttributes = [
+        'name',
+        'full_name',
+    ];
+
+    /**
+     * Indicates if the model should be timestamped.
      *
      * @var bool
      */
     public $timestamps = false;
 
+    /** -------------------- Relations -------------------- */
+
     /**
-     * Return a relation with Currency
+     * Country belongs to the currency.
      *
-     * @return BelongsTo
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
      */
     public function currency(): BelongsTo
     {
@@ -41,22 +63,36 @@ class Country extends Model
     }
 
     /**
-     * Scope a query to only include active countries
+     * Country has many cities.
      *
-     * @param $query
-     * @return mixed
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
      */
-    public function scopeActive($query)
+    public function cities(): HasMany
+    {
+        return $this->hasMany(City::class);
+    }
+
+    /** -------------------- Scopes -------------------- */
+
+    /**
+     * Scope a query to only include active countries.
+     *
+     * @param \Illuminate\Database\Eloquent\Builder $query
+     * @return \Illuminate\Database\Eloquent\Builder
+     */
+    public function scopeActive(Builder $query): Builder
     {
         return $query->where('is_active', true);
     }
 
+    /** -------------------- Accessors -------------------- */
+
     /**
-     * Return URL to flag
+     * Return URL to flag.
      *
      * @return string
      */
-    public function getFlagUrlAttribute()
+    public function getFlagUrlAttribute(): string
     {
         return asset('assets/country/flags/' . $this->code . '.png');
     }

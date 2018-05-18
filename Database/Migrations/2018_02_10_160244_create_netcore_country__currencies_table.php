@@ -18,6 +18,7 @@ class CreateNetcoreCountryCurrenciesTable extends Migration
             $table->string('code')->index();
             $table->string('name');
             $table->string('symbol');
+            $table->boolean('is_active')->default(true);
         });
     }
 

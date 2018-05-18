@@ -13,8 +13,9 @@ class CountryDatabaseSeeder extends Seeder
      */
     public function run()
     {
-        Model::unguard();
+        Model::reguard();
         $this->call(CurrenciesTableSeeder::class);
         $this->call(CountriesTableSeeder::class);
+        Model::unguard();
     }
 }
