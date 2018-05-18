@@ -22,7 +22,7 @@
     @include('admin::_partials._messages')
 
     @if(isset($city))
-        {{ Form::model($city, ['route' => ['country::countries.cities.update', $country, $city]]) }}
+        {{ Form::model($city, ['route' => ['country::countries.cities.update', $country, $city], 'method' => 'PUT']) }}
     @else
         {{ Form::open(['route' => ['country::countries.cities.store', $country]]) }}
     @endif

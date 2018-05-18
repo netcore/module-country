@@ -73,12 +73,17 @@ class CityController extends Controller
     /**
      * Update city in database.
      *
+     * @param \Modules\Country\Models\Country $country
      * @param \Modules\Country\Models\City $city
      * @param \Modules\Country\Http\Requests\CityRequest $request
      * @return \Illuminate\Http\RedirectResponse
      */
-    public function update(City $city, CityRequest $request): RedirectResponse
+    public function update(Country $country, City $city, CityRequest $request): RedirectResponse
     {
+        if ($country->id !== $city->country_id) {
+            abort(404);
+        }
+
         $city->update(
             $request->only('zip_code')
         );
@@ -99,6 +104,10 @@ class CityController extends Controller
      */
     public function destroy(Country $country, City $city): RedirectResponse
     {
+        if ($country->id !== $city->country_id) {
+            abort(404);
+        }
+
         try {
             $city->delete();
         } catch (Exception $e) {
