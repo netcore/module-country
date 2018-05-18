@@ -1,10 +1,14 @@
 {
     "name": "netcore/module-country",
-    "description": "",
+    "description": "Country module for Netcore CMS ecosystem",
     "authors": [
         {
             "name": "Gustavs Racenajs",
             "email": "racenajs.gustavs@gmail.com"
+        },
+        {
+          "name": "Viktors Ņikiforovs",
+          "email": "viktors.nikiforovs@netcore.lv"
         }
     ],
     "extra": {
@@ -12,9 +16,7 @@
             "providers": [
                 "Modules\\Country\\Providers\\CountryServiceProvider"
             ],
-            "aliases": {
-                
-            }
+            "aliases": {}
         }
     },
     "autoload": {
@@ -22,7 +24,8 @@
             "Modules\\Country\\": ""
         }
     },
-    "requrie": {
+    "require": {
         "php": ">=7.1"
-    }
+    },
+    "minimum-stability": "dev"
 }
