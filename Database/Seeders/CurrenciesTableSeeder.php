@@ -16,9 +16,9 @@ class CurrenciesTableSeeder extends Seeder
         $currencies = json_decode(file_get_contents(__DIR__ . '/data/currencies.json'), true);
 
         foreach ($currencies as $currency) {
-            if (!Currency::where('code', $currency['code'])->first()) {
-                Currency::create($currency);
-            }
+            Currency::firstOrCreate([
+                'code' => $currency['code']
+            ], $currency);
         }
     }
 }

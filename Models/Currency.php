@@ -8,32 +8,36 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class Currency extends Model
 {
     /**
-     * Table name
+     * The table associated with the model.
      *
      * @var string
      */
     protected $table = 'netcore_country__currencies';
 
     /**
-     * Mass assignable attributes
+     * The table associated with the model.
      *
-     * @var array
+     * @var string
      */
     protected $fillable = [
-        'code', 'name', 'symbol'
+        'code',
+        'name',
+        'symbol',
     ];
 
     /**
-     * Disable created_at and updated_at timestamps
+     * Indicates if the model should be timestamped.
      *
      * @var bool
      */
     public $timestamps = false;
 
+    /** -------------------- Relations -------------------- */
+
     /**
-     * Return a relation with Country
+     * Currency has many countries.
      *
-     * @return BelongsTo
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
      */
     public function countries(): HasMany
     {

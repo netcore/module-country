@@ -16,15 +16,26 @@ class CreateNetcoreCountryCountriesTable extends Migration
         Schema::create('netcore_country__countries', function (Blueprint $table) {
             $table->increments('id');
             $table->unsignedInteger('currency_id')->nullable();
-            $table->string('code')->index();
-            $table->string('name');
-            $table->string('capital');
-            $table->string('full_name');
-            $table->string('calling_code');
-            $table->boolean('eea');
+            $table->string('code')->index()->unique();
+            $table->string('capital')->nullable();
+            $table->string('calling_code')->nullable();
+            $table->boolean('eea')->nullable();
             $table->boolean('is_active')->index()->default(true);
 
             $table->foreign('currency_id')->references('id')->on('netcore_country__currencies')->onDelete('SET NULL');
+        });
+
+        Schema::create('netcore_country__country_translations', function (Blueprint $table) {
+            $table->increments('id');
+            $table->unsignedInteger('country_id');
+            $table->string('locale', 2);
+
+            $table->string('name');
+            $table->string('full_name')->nullable();
+
+            $table->unique(['country_id', 'locale']);
+            $table->foreign('country_id')->references('id')->on('netcore_country__countries')->onDelete('CASCADE');
+            $table->foreign('locale')->references('iso_code')->on('languages')->onDelete('CASCADE');
         });
     }
 
@@ -35,6 +46,7 @@ class CreateNetcoreCountryCountriesTable extends Migration
      */
     public function down()
     {
+        Schema::dropIfExists('netcore_country__country_translations');
         Schema::dropIfExists('netcore_country__countries');
     }
 }
