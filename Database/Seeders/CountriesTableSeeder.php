@@ -27,7 +27,9 @@ class CountriesTableSeeder extends Seeder
                 continue;
             }
 
-            $countryInstance = Country::create($country);
+            $countryInstance = Country::create(
+                array_only($country, ['code', 'capital', 'calling_code', 'eea'])
+            );
 
             $countryInstance->storeTranslations(
                 languages()->mapWithKeys(function (Language $language) use ($country) {
